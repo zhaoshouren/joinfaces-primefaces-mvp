@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: joinfaces-primefaces-mvp
+joinfaces:
+  faces:
+    PROJECT_STAGE: Development
